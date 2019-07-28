@@ -135,5 +135,6 @@ export default {
   white-space:nowrap;
   border-radius: 2px;
   text-align: center;
+  font-weight: bold;
 }
 </style>
